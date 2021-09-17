@@ -3,12 +3,12 @@ Capture actions in a RTS game, currently while playing as before as spectator, r
 
 
 Originally made in lua code, there are many tricks of others complementaries widgets:
--memories and structures
--widget order list
--keybinds and more combinations in game from config file
--config reloader for a starting order definitive or not
--a new keyboard layout for avoid anything else
--a new function for teams as well as spec or a player.
+ - memories and structures
+ - widget order list
+ - keybinds and more combinations in game from config file
+ - config reloader for a starting order definitive or not
+ - a new keyboard layout for avoid anything else
+ - a new function for teams as well as spec or a player.
 
 
 This is normal behaviour, the initial intention is not based on data, only the unit position that should already be seen cannot be reported and executed consecutively directly, the choosen destination are random in queues, the records and anchors can be done but usually its not necessary or enough.
